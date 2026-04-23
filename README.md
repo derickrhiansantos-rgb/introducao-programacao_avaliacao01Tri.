@@ -1,2 +1,2 @@
 # introducao-programacao_avaliacao01Tri.
-Derick Rhian
+Derick Rhian Dos Santos 1 ano B
